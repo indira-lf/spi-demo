@@ -1,0 +1,5 @@
+# Project exclude paths
+/api-db-impl-mysql/target/
+/api-db-impl-redis/target/
+/api-db-interface/target/
+/app/target/
